@@ -21,7 +21,7 @@ THE MAIN IDEA TO BUILD THIS PROJECT IS TO MAKE OUR PC AUTOMATED THAT IS IT CAN W
 
 ## EXTERNAL FILES
 
-***In this project we have used a file name called "path.txt" which contains usernames and as well as it conatins paths of application in system.If not present it will ask the path and apppend in the file.and also ask the new user when it enters the program.***
+**In this project we have used a file name called "path.txt" which contains usernames and as well as it conatins paths of application in system.If not present it will ask the path and apppend in the file.and also ask the new user when it enters the program.**
 
 
 ## team-mates
