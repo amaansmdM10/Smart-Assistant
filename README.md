@@ -14,7 +14,7 @@ THE MAIN IDEA TO BUILD THIS PROJECT IS TO MAKE OUR PC AUTOMATED THAT IS IT CAN W
  7. pywhatkit
  8. tkinter
 
->To know about the breif description and its impplementation open the below link:
+> To know about the breif description and its impplementation open the below link:
 (https://www.python.org/)
 
 ## EXTERNAL FILES
