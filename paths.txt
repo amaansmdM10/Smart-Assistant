@@ -1,0 +1,5 @@
+name=amaan
+discord="C:\Users\amaan\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Discord Inc\Discord.lnk"
+star uml="C:\ProgramData\Microsoft\Windows\Start Menu\Programs\StarUML.lnk"
+telegram="C:\Users\amaan\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Telegram Desktop\Telegram.lnk"
+spotify=spotify
