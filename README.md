@@ -1,15 +1,11 @@
 # SMART ASSISTANT
 
-````
-```
-HELLO GUYS IN THIS REPROSITORY I AND MY TEAM DEVELOPED A SMART ASSISTANNT FOR PC 
-
-```
-````
+***HELLO GUYS IN THIS REPROSITORY I AND MY TEAM DEVELOPED A SMART ASSISTANNT FOR PC***
 
 THE MAIN IDEA TO BUILD THIS PROJECT IS TO MAKE OUR PC AUTOMATED THAT IS IT CAN WORK BY IT SELF OR BY COMMANDS RATHER ANY GUI OR CMD
 
 ## IN THIS PROJECT WE HAVE USE SOME LIBRARIES:
+````
  1. pyttsx3
  2. speech_recognition
  3. datetime
@@ -18,6 +14,7 @@ THE MAIN IDEA TO BUILD THIS PROJECT IS TO MAKE OUR PC AUTOMATED THAT IS IT CAN W
  6. smtlib
  7. pywhatkit
  8. tkinter
+ ````
 
 > To know about the breif description and its impplementation open the below link:
 (https://www.python.org/)
