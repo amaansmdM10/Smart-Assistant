@@ -27,7 +27,7 @@ THE MAIN IDEA TO BUILD THIS PROJECT IS TO MAKE OUR PC AUTOMATED THAT IS IT CAN W
 ## team-mates
 ````
    1. AMAAN
-   2. NIHAL (https://github.com/MdNihalShareef)
+   2. NIHAL
    3. DIVYA
    4. SETHU
    5. PRANITI
